@@ -7,7 +7,7 @@
  \______| \______/   \______/  | _| `._____|_______/    |_______|| _| `._____/__/     \__\ 
 ```                                                                                          
 
-## coursera-Parallel-Programming-in-Java
+# coursera-Parallel-Programming-in-Java
 
 ##Module One – Task Parallelism
 Lecture: Task Creation and Termination\
