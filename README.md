@@ -1,16 +1,16 @@
-
+```
   ______   ______    __    __  .______          _______. _______ .______          ___      
  /      | /  __  \  |  |  |  | |   _  \        /       ||   ____||   _  \        /   \     
 |  ,----'|  |  |  | |  |  |  | |  |_)  |      |   (----`|  |__   |  |_)  |      /  ^  \    
 |  |     |  |  |  | |  |  |  | |      /        \   \    |   __|  |      /      /  /_\  \   
 |  `----.|  `--'  | |  `--'  | |  |\  \----.----)   |   |  |____ |  |\  \----./  _____  \  
  \______| \______/   \______/  | _| `._____|_______/    |_______|| _| `._____/__/     \__\ 
-                                                                                           
+```                                                                                          
 
 ## coursera-Parallel-Programming-in-Java
 
 ##Module One – Task Parallelism
-Lecture: Task Creation and Termination
+Lecture: Task Creation and Termination\
 Lecture: Creating Tasks in Java’s Fork/Join Framework
 Lecture: Computation Graphs, Work, Span, Ideal Parallelism
 Lecture: Multiprocessor Scheduling, Parallel Speedup
