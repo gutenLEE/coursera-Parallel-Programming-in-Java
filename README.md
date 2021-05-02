@@ -6,6 +6,7 @@
 |  `----.|  `--'  | |  `--'  | |  |\  \----.----)   |   |  |____ |  |\  \----./  _____  \  
  \______| \______/   \______/  | _| `._____|_______/    |_______|| _| `._____/__/     \__\ 
 ```                                                                                          
+Reference : Parallel Programming in Java, Rice University
 
 # coursera-Parallel-Programming-in-Java
 
