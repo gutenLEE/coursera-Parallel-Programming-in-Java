@@ -11,6 +11,8 @@ import java.util.concurrent.RecursiveTask;
  * @author yhlee
  * @created_at 2021-06-07 오후 10:30
  */
+
+// fork join 병렬처리
 public class Thread4 {
     public static void main(String[] args) {
         int size = 25;
